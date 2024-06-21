@@ -1,0 +1,5 @@
+# Created at 2024-06-15T16:34:23.430
+Boot Manifest-JAR contains absolute paths in classpath 'D:\IntelliJ IDEA 2023.2.3\CoffeeSystem\coffee-order\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
